@@ -27,13 +27,13 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Fitness",
       "keywords": [
       ]
     }
@@ -63,8 +63,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
