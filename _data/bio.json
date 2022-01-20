@@ -2,7 +2,7 @@
   "basics": {
     "name": "Johanan Leoncio",
     "label": "Student",
-    "picture": "https://JohananCS.github.io/images/asfggg.png",
+    "picture": "https://images-na.ssl-images-amazon.com/images/I/518QtyEvdnL._SX300_SY300_QL70_ML2_.jpg",
     "email": "jleoncio@hawaii.edu",
     "phone": "",
     "website": "https://JohananCS.github.io",
@@ -66,23 +66,18 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
