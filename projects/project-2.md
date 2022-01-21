@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/nhd.png
+title: Study of Hiroshima Bombing
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-2-20
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - History
+  - NHD
+  - Hiroshima
+summary: A History study and website project done in High School
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="Hiroshimabombing" src="https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki#/media/File:Atomic_bombing_of_Japan.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Throughtout highschool we were encouraged to study and learn through our own personal projects that we would submit for National History Day competition. While this was never very exciting for me, one year I was very excited about one topic that I had choose to research about. That topic being about the Hiroshima and Nagasaki bombing of WWII. I have always had interest in World War II and about the wars and battles. This project was something that I put in a good effort in because of that interest I had.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This is a cool project under my belt because it is also relevant to what I am studying now because it was a super easy introduction into web design, although it was very easy using a templated program, it was cool to see how I could publish my own work online through a public domain.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
+Here is the project [Website](http://19971852.nhd.weebly.com/annotated-bibliography.html)
