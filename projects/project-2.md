@@ -11,6 +11,7 @@ labels:
   - NHD
   - Hiroshima
 summary: A History study and website project done in High School
+published: true
 ---
 
 <div class="ui small rounded images">
