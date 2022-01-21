@@ -4,6 +4,7 @@ type: project
 image: images/vim.jpg
 title: Banking Software
 permalink: projects/vim
+# All dates must be YYYY-MM-DD format!
 date: 2021-12-01
 labels:
   - VIM
