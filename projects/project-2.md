@@ -13,7 +13,7 @@ labels:
 summary: A History study and website project done in High School
 ---
 
-<img class="Hiroshima Bombing" src="https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki#/media/File:Atomic_bombing_of_Japan.jpg">
+<img class="Hiroshima Bombing" src="https://3.files.edl.io/0739/20/01/29/223122-c0522d51-2099-47ce-bc5b-c7517625d406.jpg">
 
 Throughtout highschool we were encouraged to study and learn through our own personal projects that we would submit for National History Day competition. While this was never very exciting for me, one year I was very excited about one topic that I had choose to research about. That topic being about the Hiroshima and Nagasaki bombing of WWII. I have always had interest in World War II and about the wars and battles. This project was something that I put in a good effort in because of that interest I had.
 
