@@ -5,7 +5,7 @@ image: images/nhd.jpg
 title: Study of Hiroshima Bombing
 permalink: projects/nhd
 # All dates must be YYYY-MM-DD format!
-date: 2018-2-20
+date: 2018-02-20
 labels:
   - History
   - NHD
