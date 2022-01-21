@@ -9,7 +9,7 @@ date: 2019-08-24
 labels:
   - Music
   - HipHop
-  - C++
+  - Collaborative
 summary: I produced a song with my friend and hit 30k streams on spotify alone
 ---
 
