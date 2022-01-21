@@ -11,6 +11,7 @@ labels:
   - Unix
   - C++
 summary: I developed, with rubric, a banking system within UHUnix
+published: true
 ---
 
 <img class="Vim editor" src="/images/vim.png">
