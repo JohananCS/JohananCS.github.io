@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/nhd.png
 title: Study of Hiroshima Bombing
-permalink: projects/vacay
+permalink: projects/nhd
 # All dates must be YYYY-MM-DD format!
 date: 2018-2-20
 labels:
