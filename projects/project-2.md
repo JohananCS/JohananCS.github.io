@@ -23,4 +23,4 @@ Throughtout highschool we were encouraged to study and learn through our own per
 This is a cool project under my belt because it is also relevant to what I am studying now because it was a super easy introduction into web design, although it was very easy using a templated program, it was quite cool to see how I could publish my own work online through a public domain.
 
 
-Here is the project [Website](http://19971852.nhd.weebly.com/annotated-bibliography.html)
+Here is the project [Website](http://19971852.nhd.weebly.com/)
