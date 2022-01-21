@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: First Time Using First Class Functions? 
+title: A Career as a Software Engineer? 
 date: 2022-01-20
 labels:
   - Software Engineering
