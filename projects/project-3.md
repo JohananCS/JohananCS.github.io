@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vim.jpg
+image: images/vim.png
 title: Banking Software
 permalink: projects/vim
 # All dates must be YYYY-MM-DD format!
