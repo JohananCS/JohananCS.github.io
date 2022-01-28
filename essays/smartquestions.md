@@ -20,4 +20,4 @@ A huge hub for such things would be Stack overflow. If we look here [Not so smar
 	The stark differences between these two sources is very obvious. The difference in tone, format, readiblities, and professionalism clearly define the difference between a smart way of asking a question and a not so smart way of asking it.
 
 Cited
-Raymond, Eric Steven. “How To Ask Questions The Smart Way.” How to Ask Questions the Smart Way, How To Ask Questions The Smart Way, http://www.catb.org/esr/faqs/smart-questions.html. 
+Raymond, Eric Steven. “How To Ask Questions The Smart Way.” How to Ask Questions the Smart Way, How To Ask Questions The Smart Way, [Link](http://www.catb.org/esr/faqs/smart-questions.html). 
