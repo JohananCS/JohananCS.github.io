@@ -33,7 +33,7 @@ This not only makes me as a user and student cared about but also supported by a
 </p>
 <h2>Take away</h2>
 
-<img src="https://www.radgrad.org/assets/images/interests-explorer-algorithms-4d70ada9b89e7924f6da706564d398e4.png" width="500px" align="right"/>
+<img src="https://www.radgrad.org/assets/images/interests-explorer-algorithms-4d70ada9b89e7924f6da706564d398e4.png" width="400px" align="right"/>
 <p>
 I learned a lot from even the tutorial of RadGrad alone. Using the many features and exploring on my own revealed that there is a lot more to my degree than just passing classes. I can now plan my classes that I want/need to take in more depth and also have more information about opportunities that I want to be a part of. I think that this definitely would help me have a better degree experience where I am able to be in control, be involved, and be committed. I would recommend anyone in STEM to take a look at RadGrad because I’m sure that even if they don’t end up using it a lot, they can still get something out of it
 </p>
