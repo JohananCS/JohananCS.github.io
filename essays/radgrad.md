@@ -15,13 +15,13 @@ labels:
 
 <img src="https://www.radgrad.org/img/radgrad_logo.png" width="100px" align="left"/> 
 <p>Recently I have reviewed and used the Radgrad resource and I have gained a lot out of it.
-While it was something I briefly skimmed over at first, it was something I came back to to gain valuable information about courses and opportunities in my career path of software engineering. RadGrad is a wonderful tool that I would not have otherwise known about. After completing the tutorial on the website, I have a lot to say as to what I like about it and what I've learned from it.
+While it was something I briefly skimmed over at first, it was something I came back to in order to gain valuable information about courses and opportunities in my career path of software engineering. RadGrad is a wonderful tool that I would not have otherwise known about. After completing the tutorial on the website, I have a lot to say as to what I like about it and what I've learned from it.
 </p>
 <p>
 
 <h2>Values</h2>
 <p>
-In addition to it’s assistant and resource provision for students, RadGrad also has strong pillars in what they stand for and what they believe. They are founded on three concepts: engagement, retention, and diversity. Their goal is explained as:
+In addition to its assistant and resource provision for students, RadGrad also has strong pillars in what they stand for and what they believe. They are founded on three concepts: engagement, retention, and diversity. Their goal is explained as:
   
 <figure class="quote">
   <blockquote>
@@ -29,7 +29,7 @@ In addition to it’s assistant and resource provision for students, RadGrad als
   </blockquote>
 </figure>
 <p>
-This not only makes me as a user and student cared about, but also supported with a community and team in my endeavors and goals.
+This not only makes me as a user and student cared about but also supported by a community and team in my endeavors and goals.
 </p>
 <h2>Take away</h2>
 
@@ -39,4 +39,4 @@ I learned a lot from even the tutorial of RadGrad alone. Using the many features
 </p>
 
 <h2>Overall thoughts</h2>
-<p>As mentioned, I think RadGrad is an amazing source and that I will definitely be referring back to it as I progress further into my college career. I definitely want to become part of some of the opportunities and events as well as informing myself further on what I want to specialize in and what course I will benefit the most from. I think RadGrad has motivated me and inspired me to lock in on my path as a computer scientist and software engineer. </p>
+<p>As mentioned, I think RadGrad is an amazing source and I will definitely be referring back to it as I progress further into my college career. I definitely want to become part of some of the opportunities and events as well as informing myself further on what I want to specialize in and what course I will benefit the most from. I think RadGrad has motivated me and inspired me to lock in on my path as a computer scientist and software engineer. </p>
