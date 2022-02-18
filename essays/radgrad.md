@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: A Radical Way to Graduate 
+date: 2022-02-17
+labels:
+  - Software Engineering
+  - RadGrad
+  - Community
+  - Resources
+---
+
 <h1>A Radical Way to Graduate</h1>
 <h2>It’s Rad</h2>
 
