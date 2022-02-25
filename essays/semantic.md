@@ -9,9 +9,6 @@ labels:
   - Frameworks
   - CSS
 ---
-
-<h1>Depends on How You Frame It</h1>
-
 <h2>HTML and CSS</h2>
 
 <img src="../images/htmlcss.png" width="250px" align="left"/>
