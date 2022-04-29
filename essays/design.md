@@ -18,7 +18,7 @@ labels:
 
 <h2>The Secret Sauce</h2>
 
-<img src="../images/cooking.jpg" width="250px" height="200" align="left"/>
+<img src="../images/cooking.jpg" width="250px" align="left"/>
 
 <p>
 	Do you know the difference between a cook and a chef? A cook puts together ingredients, while a chef understands the food from the perspective of the eater. Code is incredibly similar to cooking. You have ingredients that you ensemble together, cook, and plate to make a dish. For convenience people will usually just get fast food or just eat things simply as they are. In contrast, people who enjoy cooking and eating fine dining know that there is more to it than just ingredients and heat. They have to craft the seasoning, form a taste profile, create complimenting flavors and textures. In the same way, good coders know that while efficiency and effectiveness are the most important, they also value the design of their code; the secret sauce. They value the plating of their code, the presentation, and the perspective of the user of said code. Something that will not only be good, but memorable.
