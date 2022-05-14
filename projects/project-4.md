@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/carpool.jpg
+image: images/carpool.png
 title: Car Pool and Go
 permalink: projects/carpool
 # All dates must be YYYY-MM-DD format!
@@ -18,8 +18,6 @@ summary: My Final Project for my ICS 314 Course
 <p>My contribution was developing the edit profile functionality and the ground works for our user rating system. Both of these contributions dealt with modifying our object collections which we iniated for all users that would log in to the website. This information would be store in a json where it can be accessed, editted, or called on. All of these changes where mangaged through and issue-based format on our group github project page. While this was confusing and challenging at times, I still enjoyed developing this with my piers.</p>
 
 Here is what the page looks like 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/landingpage.png">
-</div>
+  <img src="../images/landingpage.png">
 
 You can check it out in full detail on [our website](https://carpool-and-go.github.io/).
