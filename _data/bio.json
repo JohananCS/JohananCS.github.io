@@ -14,8 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "github",
         "username": "JohananCS",
         "url": "http://github.com/JohananCS"
@@ -24,8 +23,7 @@
         "network": "linkedin",
         "username": "johananleoncio",
         "url": "http://linkedin.com/in/johananleoncio"
-      }
-    ]
+      }]
   },
   "interests": [
     {
@@ -69,8 +67,6 @@
       "startDate": "2020",
       "endDate": "2024",
       "gpa": "",
-      "courses": [
-      ]
     }
   ],
   "work": [
