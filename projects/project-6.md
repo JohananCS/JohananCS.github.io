@@ -22,7 +22,7 @@ summary: Collaborative project sponsored by ai.fish, helped develop and create p
 
 One of my most accomplished projects, me and two partners collaborated with Ai.Fish to develop a prompt rephraser that leverages AI-driven methods to locate protected species imagery. Hopefully this will help with longline fishing in protecting endangered species. The project’s goal was to integrate advanced APIs and user-friendly tools to streamline the search for marine species imagery. By working closely with Ai.Fish, a leader in computer vision technology with over 2 million annotated data points, we tailored our solution to enhance their database and improve fishing practices. This involved building a backend with Node.js to handle API calls, including ChatGPT for prompt rephrasing and Google’s Image API for retrieving relevant results.
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div class="ui small rounded images" style="display: inline-block;">
     <img class="ui image" src="https://github.com/JohananCS/JohananCS.github.io/blob/master/images/papi.png" width="100" height="100">
     <img class="ui image" src="https://github.com/JohananCS/JohananCS.github.io/blob/master/images/gpt.png" width="100" height="100">
