@@ -49,7 +49,9 @@
   ],
   "Full resume": [
     {
-      "Please check out my resume!": "<a href='https://github.com/JohananCS/JohananCS.github.io/blob/master/Johanan's%20Resume.pdf'>Resume</a>",
+      "Resumse": "Please check out my <a href='https://github.com/JohananCS/JohananCS.github.io/blob/master/Johanan's%20Resume.pdf'>Resume!</a>",
+      "test": "test",
+      
     }
   ],
   "interests": [
