@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Johanan Leoncio",
-    "label": "Student",
-    "picture": "https://github.com/JohananCS/JohananCS.github.io/blob/master/images/Jodhanan.png?raw=true",
-    "email": "jleoncio@hawaii.edu",
+    "label": "ICS Graduate",
+    "picture": "https://github.com/JohananCS/JohananCS.github.io/blob/master/images/headshot.png?raw=true",
+    "email": "johanan.leoncio@gmail.com",
     "phone": "",
     "website": "https://JohananCS.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "Newly graduated with a degree in Computer Science from the University of Hawaii Fall 2024."
     "location": {
       "address": "",
       "postalCode": "96789",
@@ -39,7 +39,12 @@
       ]
     },
     {
-      "name": "Fitness",
+      "name": "Basketball",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computers",
       "keywords": [
       ]
     }
@@ -50,9 +55,9 @@
       "level": "",
       "keywords": [
         "Java",
-        "mild C++",
-        "mild C",
-        "mild Javascript",
+        "Intermediate C++",
+        "Intermediate C",
+        "Intermediate Javascript",
       ]
     }
   ],
@@ -62,7 +67,7 @@
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2020",
-      "endDate": "Present",
+      "endDate": "2024",
       "gpa": "",
       "courses": [
       ]
