@@ -11,7 +11,7 @@ labels:
   - Unix
   - C++
   - Linked Lists
-summary: Banking System using through unix, 
+summary: Banking System using through unix, utilizing linked lists and dynamic arrays in C++ and C
 published: true
 ---
 
